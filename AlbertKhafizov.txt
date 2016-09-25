@@ -2,6 +2,6 @@
 alhafram@gmail.com
 
 1) Написание приложения для решения задач ЕГЭ, ГИА
-2) Приложение на подобии Snaphot builder, только под iOS
+2) Приложение на подобии Snapshot builder, только под iOS
 
 Калькулятор https://github.com/alhafram/CalcDemo
