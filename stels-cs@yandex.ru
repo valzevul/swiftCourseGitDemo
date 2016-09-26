@@ -1,6 +1,9 @@
 ##Иван Недзвецкий
 stels-cs@ya.ru
 
+###Калькулятор iOS
+https://github.com/stels-cs/ios-calculator
+
 ###Идеи
 1) Карта чекинов из ВКонтакте (https://vk.com/dev/places.getCheckins) Которая будет еще и показывать людей рядом (https://vk.com/dev/users.getNearby) (если там кто-то будет)
 
