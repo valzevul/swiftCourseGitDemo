@@ -1,5 +1,5 @@
 Contact Email: <a7ls@ya.ru>
-
+Calculator: https://github.com/Magauran/VKU-Calculator
 
 
 Есть несколько идей:
