@@ -4,4 +4,4 @@ expertgames@yandex.ru
 
 Приложение плеер, которое сможет увеличивать громкость при повышении порога внешнего шума (Например: метро)
 
-Калькулятор: https://github.com/DmitriyLis/CalculatorDemo/
+Калькулятор: https://github.com/DmitriyLis/CalculatorDemo
