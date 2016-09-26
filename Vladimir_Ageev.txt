@@ -3,6 +3,10 @@
 e-mail: vladimir.ageev@me.com
 vk: vk.com/id221142478
 
+
+Ссылка на калькулятор:
+https://github.com/La1c/calculator
+
 Идеи:
 
 1. Оповещения из групп в ВК.
