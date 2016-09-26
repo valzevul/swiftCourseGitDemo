@@ -7,3 +7,5 @@ E-Mail: yury.bandarchuk@gmail.com
     1) куда-нибудь прикрутить (расширение или отдельная прилага) упрощение текста с помощью синонимов
 
     2) отслеживание новостей с трансферного рынка через Twitter
+
+Репозиторий калькулятора - https://github.com/YuryBandarchuk16/VKUniversity-iOS-Course/tree/master/CalculatorVK/CalculatorVK
