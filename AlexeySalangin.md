@@ -1,6 +1,6 @@
 Contact Email: <a7ls@ya.ru>   
-Calculator: https://github.com/Magauran/VKU-Calculator 
-Campus: https://github.com/Magauran/Campus (дз с 4 лекции)
+Calculator: https://github.com/Magauran/VKU-Calculator   
+Campus: https://github.com/Magauran/Campus (дз с 4 лекции)  
 
 ######Летающая корова
 Бесконечная 2D-игра с неограниченным игровым пространством, суть которой заключается в том, чтобы не убить свою корову как можно дольше.  
