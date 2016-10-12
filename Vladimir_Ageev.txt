@@ -15,7 +15,8 @@ https://github.com/La1c/calculator
 Ссылка на форк приложения каталога:
 https://github.com/La1c/VKUDeliveryFromLocals
 
-Проект:
+Проект: (https://github.com/La1c/grand_iOS_app)
+Черновики интерфейса: https://github.com/La1c/grand_iOS_app/tree/master/UI%20Sketch
 Основная задача:
 Приложение, которое позволяет:
 -- следить за количеством выпитой жидкости в течение дня,
