@@ -12,8 +12,8 @@ https://www.dropbox.com/s/vk3n2ide6rmxhly/Target_audience_Ageev.pdf?dl=0
 Ссылка на калькулятор:
 https://github.com/La1c/calculator
 
-Ссылка на форк приложения каталога:
-https://github.com/La1c/VKUDeliveryFromLocals
+Ссылка на приложение-каталог:
+https://github.com/La1c/Cafe
 
 Проект: (https://github.com/La1c/grand_iOS_app)
 Черновики интерфейса: https://github.com/La1c/grand_iOS_app/tree/master/UI%20Sketch
