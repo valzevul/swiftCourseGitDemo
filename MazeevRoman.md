@@ -30,5 +30,11 @@
 ![Question 6](https://s15.postimg.org/s4dcdeh8b/2016_10_03_0_50_22.png)
 
 
-## Calculator Git
+## Calculator
 [https://github.com/centr82009/CalculatorDemo](https://github.com/centr82009/CalculatorDemo)
+
+## Restaurant Helper
+[https://github.com/centr82009/RestaurantHelper](https://github.com/centr82009/RestaurantHelper)
+
+## Rainy
+[https://github.com/centr82009/Rainy](https://github.com/centr82009/Rainy)
