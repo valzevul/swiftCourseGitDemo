@@ -6,8 +6,15 @@ Kirillzzy@gmail.com
 Vk:
 vk.com/kirillzzy
 
-repository:
-https://github.com/Kirillzzy/VKU-IOS
+1) Доделал приложение-каталог:
+https://github.com/Kirillzzy/DeliveryFromLocals
+
+2) Начал делать приложение погода, но не получилось брать данные из openweathermap с помощью alamofire,
+т.к. он возвращает данные не в json формате:
+https://github.com/Kirillzzy/Rainy
+
+Сделанный уже давно, но не скинутый черновой дезайн приложения:
+https://drive.google.com/open?id=0BxmPVRxy3XTVYXVkUUFFcW9nT3c
 
 Целевая аудитория приложения:
   Люди, которые много проводят время в соц. сетях и не хотят ничего пропустить из новостей от пабликов и людей.
