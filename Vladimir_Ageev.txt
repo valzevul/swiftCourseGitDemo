@@ -9,6 +9,16 @@ https://www.dropbox.com/s/jloxu2qzqetk4jr/User_strories_Ageev.pdf?dl=0
 Ссылка на PDF о целевой аудитории:
 https://www.dropbox.com/s/vk3n2ide6rmxhly/Target_audience_Ageev.pdf?dl=0
 
+
+Cсылка на приожение про друзей за границей:
+https://github.com/La1c/WeatherApp
+
+**Changelog 31.10--07.11**
+
+* Из VK подгружается список друзей c фотографиями и городами
+* Сделано два экрана: список и экран с информацией о друге
+*****
+
 Ссылка на калькулятор:
 https://github.com/La1c/calculator
 
@@ -32,6 +42,13 @@ https://github.com/La1c/Cafe
 
 Ссылка на приложение о погоде:
 https://github.com/La1c/WeatherApp
+
+**Changelog 31.10--07.11**
+
+* Добавлена иконка
+
+*****
+
 
 **Changelog 24.10--31.10**
 
