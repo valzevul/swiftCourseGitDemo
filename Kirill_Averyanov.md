@@ -6,13 +6,19 @@ Kirillzzy@gmail.com
 Vk:
 vk.com/kirillzzy
 
-1) Доделал приложение-каталог:
+- Калькулятор:
+https://github.com/Kirillzzy/iosCalculator
+
+- Приложение-каталог:
 https://github.com/Kirillzzy/DeliveryFromLocals
 
-2) Приложения погода, но проблемы с получением геолокации:
+- Приложение погода(Отправил на review):
 https://github.com/Kirillzzy/Rainy
 
-Сделанный уже давно, но не скинутый черновой дезайн приложения:
+- Приложение Друзья Вк(SwiftyVK, Пока просто авторизируюсь, и кладу имена и города друзей в tableView):
+https://github.com/Kirillzzy/VKFriends
+
+Черновой дизайн:
 https://drive.google.com/open?id=0BxmPVRxy3XTVYXVkUUFFcW9nT3c
 
 Целевая аудитория приложения:
