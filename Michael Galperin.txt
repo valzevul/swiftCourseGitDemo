@@ -1,4 +1,6 @@
 VK: https://vk.com/id334777001
-Ideas:
-//maybe face to face
+
+Changelog:
+- 06.10: VkFriendsApp starter added
+
 Homework inside: https://github.com/piechart/VkCourse (via description)
