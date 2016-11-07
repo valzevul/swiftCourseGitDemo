@@ -2,7 +2,10 @@
 
 Моей ЦА являются туристы, которые путешествуют без гида и изучают город самостоятельно.
 
-Ссылка на ДЗ по Constrains: https://github.com/BreakSwor/Calculator
-Ссылка на  DeliveryFromLoc: https://github.com/BreakSwor/DeliveryFromLocals
-Ссылка на MyWeather: https://github.com/BreakSwor/MyWeather
+
+
+Ссылка на Друзей ВК: https://github.com/BreakSwor/MesMap
+//Ссылка на ДЗ по Constrains: https://github.com/BreakSwor/Calculator
+//Ссылка на  DeliveryFromLoc: https://github.com/BreakSwor/DeliveryFromLocals
+//Ссылка на MyWeather: https://github.com/BreakSwor/MyWeather
 
