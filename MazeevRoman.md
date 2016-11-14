@@ -1,16 +1,14 @@
 #Roman Mazeev
 ##<centr82009@gmail.com>
 ### Конечная идея:
-* Rash - Рандомизатор походов в разные места. 
+* Plaque - Выбор места ответами на вопросы. 
 
 ### User Stories:
-* Как пользователь, я хочу получить выбор конкретных типов мест, с целью выбора рандомного места из типа мест в которые хочется пойти.
-
 * Как рекламодатель, я хочу получить контакты для связи, с целью размещения рекламы в приложении
 
 * Как пользователь, я хочу получить независимость от рекламодателей на работу приложения, с целью исключения возможности выпада мест за которые заплатили рекламодатели. 
-### Исследование целевой аудитории
 
+### Исследование целевой аудитории
 #### "ЦА: люди, которые хотят провести вечер где-то, но не могут решить где именно"
 
 ![Question 1](https://s14.postimg.org/sb4juqte9/2016_10_02_6_54_13.png)
@@ -26,15 +24,16 @@
 ![Question 6](https://s14.postimg.org/53euzn9zl/2016_10_02_6_54_40.png)
 
 ### Интерфейс
-
-![Question 6](https://s15.postimg.org/s4dcdeh8b/2016_10_03_0_50_22.png)
-
+[Show](https://xd.adobe.com/view/995757be-0d0e-424d-a269-e997ea84205a/)
 
 ## Calculator
-[https://github.com/centr82009/CalculatorDemo](https://github.com/centr82009/CalculatorDemo)
+[View in GitHub](https://github.com/centr82009/CalculatorDemo)
 
 ## Restaurant Helper
-[https://github.com/centr82009/RestaurantHelper](https://github.com/centr82009/RestaurantHelper)
+[View in GitHub](https://github.com/centr82009/RestaurantHelper)
 
 ## Rainy
-[https://github.com/centr82009/Rainy](https://github.com/centr82009/Rainy)
+[View in GitHub](https://github.com/centr82009/Rainy)
+
+## VkNear
+[View in GitHub](https://github.com/centr82009/VkNear)
