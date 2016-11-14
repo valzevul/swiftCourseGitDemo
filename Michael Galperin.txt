@@ -1,6 +1,10 @@
 VK: https://vk.com/id334777001
 
 Changelog:
-- 06.10: VkFriendsApp starter added
+- 13.10: VkFriendsApp: MapKit & Profile screen added
+
+TODO:
+- VkFriendsApp: add custom transition
+- CalcDemo: add CareKit for Parkinson's disease detection (via rustiksg)
 
 Homework inside: https://github.com/piechart/VkCourse (via description)
