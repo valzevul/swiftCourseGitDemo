@@ -20,3 +20,7 @@ https://github.com/asnelzin/DeliveryFromLocals
 ### Rainy
 
 https://github.com/asnelzin/Rainy
+
+### VKFriends
+
+https://github.com/asnelzin/VKFriends
