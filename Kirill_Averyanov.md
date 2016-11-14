@@ -12,10 +12,10 @@ https://github.com/Kirillzzy/iosCalculator
 - Приложение-каталог:
 https://github.com/Kirillzzy/DeliveryFromLocals
 
-- Приложение погода(Отправил на review):
+- Приложение погода(В App Store):
 https://github.com/Kirillzzy/Rainy
 
-- Приложение Друзья Вк(SwiftyVK, Пока просто авторизируюсь, и кладу имена и города друзей в tableView):
+- Приложение Друзья Вк(Не получилось подключить кастомную tableviewcell, не до конца доделано отображение на карте друзей):
 https://github.com/Kirillzzy/VKFriends
 
 Черновой дизайн:
