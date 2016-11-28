@@ -7,3 +7,4 @@ email: kiryukhinv@gmail.com
 1. Calculator: https://github.com/kvld/iOS-VKU-Calculator
 2. Catalog: https://github.com/kvld/iOS-VKU-Catalog
 3. Weather: https://github.com/kvld/iOS-VKU-Weather
+5. ToDo Manager: https://github.com/kvld/iOS-VKU-ToDoManager
