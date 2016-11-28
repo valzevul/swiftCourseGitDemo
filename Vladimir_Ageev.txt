@@ -9,6 +9,8 @@ https://www.dropbox.com/s/jloxu2qzqetk4jr/User_strories_Ageev.pdf?dl=0
 Ссылка на PDF о целевой аудитории:
 https://www.dropbox.com/s/vk3n2ide6rmxhly/Target_audience_Ageev.pdf?dl=0
 
+Ссылка на приложение TO-DO лист:
+https://github.com/La1c/Checklists
 
 Cсылка на приложение про друзей за границей:
 https://github.com/La1c/FriendsAbroad
