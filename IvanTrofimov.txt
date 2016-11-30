@@ -1,4 +1,5 @@
 Приложение для погоды: https://github.com/kekcik/WeatherApp
+Игра для iMessage (TODO: закончу, сделаю лаколизацию, тесты и залью в AppStore): https://github.com/kekcik/iMDemoApp
 
 ===============================
 	Привет, Сегодня немного о моем приложение. The Boat. 
