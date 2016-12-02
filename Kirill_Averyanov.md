@@ -15,8 +15,11 @@ https://github.com/Kirillzzy/DeliveryFromLocals
 - Приложение погода(В App Store):
 https://github.com/Kirillzzy/Rainy
 
-- Приложение Друзья Вк(Добавил локализацию на Русский, добавил Realm, сохраняю местоположение пользователя в бд, TODO приложение не стал делать, т.к. добавил все сюда):
+- Приложение Друзья Вк:
 https://github.com/Kirillzzy/VKFriends
+
+- Приложение iMessage(Это чат опрос в messanger'е(askMessanger), кто-то задает вопрос и остальные отвечают. Есть баги при переходах между presentation style'ами, потом исправлю):
+https://github.com/Kirillzzy/iMessageAppExtentionDemo
 
 Черновой дизайн:
 https://drive.google.com/open?id=0BxmPVRxy3XTVYXVkUUFFcW9nT3c
