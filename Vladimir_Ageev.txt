@@ -10,7 +10,7 @@ https://github.com/La1c/Checklists
 
 * Приоритеты
 * Храню списки с помощью Realm
-* L18n
+* L10n
 * UI-тесты, Unit-тесты
 
 *****
