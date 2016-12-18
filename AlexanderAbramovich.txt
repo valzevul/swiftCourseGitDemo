@@ -16,7 +16,10 @@ Fitness Helper - помощник в тренировках.
 2 категория - люди активно занимающиеся спортом. Для данной категории предусмотрена возможность составление собственной программы тренировок, статистика, поиск напарника для тренировок.
 
 
+
 Задание. Ссылка на калькулятор https://github.com/hause009/CalculatorVk.git
 Задание. Приложение каталог https://github.com/hause009/DeliveryFromLocals.git
 Задание. Приложение «Прогноз погоды» https://github.com/hause009/Rainy. Comment: add request api
 Задание. Приложение список друзей ВК + карта https://github.com/hause009/VkMap
+
+Ссылка на мой проект https://github.com/hause009/FitnessHelper 
