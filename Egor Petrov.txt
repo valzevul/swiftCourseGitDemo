@@ -1,11 +1,2 @@
-Приложение "Органайзер путешественника" которое формирует маршрут среди выбранных достопримечательностей, также приложение будет выводить расписание мероприятий по-интересам
-
-Моей ЦА являются туристы, которые путешествуют без гида и изучают город самостоятельно.
-
-
-
-Ссылка на Друзей ВК: https://github.com/BreakSwor/MesMap
-//Ссылка на ДЗ по Constrains: https://github.com/BreakSwor/Calculator
-//Ссылка на  DeliveryFromLoc: https://github.com/BreakSwor/DeliveryFromLocals
-//Ссылка на MyWeather: https://github.com/BreakSwor/MyWeather
-
+Ссылка на MVP-проекта, после презентаций и нашего разговора идея осталась той же, но приобрела больше игровой стиль.
+https://github.com/BreakSwor/QuestForTourist
