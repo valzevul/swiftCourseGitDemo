@@ -3,9 +3,8 @@
 suraeva.yana@gmail.com
 
 changelog:
-Приложение VKFriends. 
-Авторизация. На первом экране отображается список друзей.
-https://github.com/Yanet-ta/VKFriends
+В основном приложении создан экран с доступом к камере и к фото-галерее.
+https://github.com/Yanet-ta/SplitCheck
 
 ----------------------------------------------
 Идея приложения:
@@ -24,6 +23,10 @@ User stories
 https://marvelapp.com/17adf7g
 
 ----------------------------------------------
+Основное приложение:
+https://github.com/Yanet-ta/SplitCheck
+
+----------------------------------------------
 
 Калькулятор: 
 https://github.com/Yanet-ta/CalculatorSwift.git
@@ -39,4 +42,5 @@ https://github.com/Yanet-ta/Rainy
 ---------------------------------------------
 Друзья ВК:
 https://github.com/Yanet-ta/VKFriends
+
 
