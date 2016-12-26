@@ -3,19 +3,16 @@
 e-mail: vladimir.ageev@me.com
 vk: vk.com/id221142478
 
-Ссылка на приложение TO-DO лист:
-https://github.com/La1c/Checklists
-
-**Changelog 28.11--05.12**
-
-* Приоритеты
-* Храню списки с помощью Realm
-* L10n
-* UI-тесты, Unit-тесты
-
-*****
 
 Проект (https://github.com/La1c/Fooder)
+
+**Changelog 20.12--26.12**
+
+ * Добавил эран с настройками, в частности реализовал выбор продуктов, на которые у пользователя аллергия
+ * Упростил viewController'ы: теперь нет никаких контейнеров (single responsibility, прощай) и collectionViewController'ов
+ * Улучшил код взаимодействия с API
+ * Мелкие улучшения дизайна
+ * Добавил выбор категории блюд в поиске
 
 **Changelog 05.12--20.12**
 
@@ -41,6 +38,10 @@ https://github.com/La1c/Checklists
 
 
 *****
+
+
+Ссылка на приложение TO-DO лист:
+https://github.com/La1c/Checklists
 
 Cсылка на приложение про друзей за границей:
 https://github.com/La1c/FriendsAbroad
