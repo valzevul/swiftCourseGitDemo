@@ -22,4 +22,4 @@ Fitness Helper - помощник в тренировках.
 Задание. Приложение «Прогноз погоды» https://github.com/hause009/Rainy. Comment: add request api
 Задание. Приложение список друзей ВК + карта https://github.com/hause009/VkMap
 
-Ссылка на мой проект https://github.com/hause009/FitnessHelper - добавил классы MyProgramController и часть логики отвечающей за сохранения выбранных упражнений
+Ссылка на мой проект https://github.com/hause009/FitnessHelper - добавил класс MyRepetitionController
