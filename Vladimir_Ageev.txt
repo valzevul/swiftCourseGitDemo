@@ -9,6 +9,8 @@ vk: vk.com/id221142478
 **Changelog ... -- 23.01**
 
 * Добавил prefetch изображений в Collection View для более плавного скроллинга
+* Empty states
+* Иконка
 
 **Changelog 26.12--07.01**
 То, что, по-моему, уже можно называть MVP. 
