@@ -11,3 +11,4 @@ expertgames@yandex.ru
 Погода: https://github.com/DmitriyLis/VKURainyApp/ 
 ДрузьяВК: https://github.com/DmitriyLis/FriendsVK
 
+Проект для выступления: https://github.com/DmitriyLis/NewWord
